@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nomaanakhan.github.io/sitemap.xml
